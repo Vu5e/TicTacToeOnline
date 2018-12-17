@@ -1,0 +1,14 @@
+﻿  Application.cpp
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\vector.h(150): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\random.h(24): warning C4091: 'static ': ignored on left of 'Random' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  d:\documents\degree\sem 8\data networking\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\application.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\application.cpp(39): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\application.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\application.cpp(152): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\application.cpp(276): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\documents\degree\sem 8\data networking\vu5eserverphoton\vu5eserverphoton\application.cpp(277): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Vu5eServerPhoton.vcxproj -> D:\Documents\Degree\Sem 8\Data Networking\Vu5eServerPhoton\Debug\Vu5eServerPhoton.exe
